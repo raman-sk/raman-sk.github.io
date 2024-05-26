@@ -9,7 +9,7 @@
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/[dummy_thumbnail.jpg](https://github.com/raman-sk/raman-sk.github.io/blob/master/images/Screenshot%202024-05-08%20135637.png)?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
