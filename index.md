@@ -6,3 +6,8 @@
 
 <img src="images/Screenshot 2024-05-08 135637.png?raw=true"/>
 
+---
+
+## [NYC Crime Analytics Dashboard & Detailed Map (2010-2023)](/pdf/Crimes in NYC 2010 -2023.pdf)
+
+<img src="images/Screenshot 2024-05-08 135637.png?raw=true"/>
