@@ -11,3 +11,9 @@
 ## [NYC Crime Analytics Dashboard & Detailed Map (2010-2023)](/pdf/Crimes in NYC (2010 -2023).pdf)
 
 <img src="images/Screenshot 2024-07-20 235820.png?raw=true"/>
+
+---
+
+## [Work in Progress: "Analysis of Products from Top eBay Sellers"](/Analysis of Products from Top eBay Sellers.pdf)
+
+<img src="images/Screenshot 2024-07-27 130038.png?raw=true"/>
