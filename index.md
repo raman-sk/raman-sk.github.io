@@ -14,6 +14,6 @@
 
 ---
 
-## [Work in Progress: "Analysis of Products from Top eBay Sellers"](/pdf/Analysis of Products from Top eBay Sellers.pdf)
+## [Work in Progress: "Analysis of Products from Top eBay Sellers"](/pdf/Analysis of Products from Top EBay Sellers.pdf)
 
 <img src="images/Screenshot 2024-07-27 135432.png?raw=true"/>
