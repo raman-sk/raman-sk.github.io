@@ -16,7 +16,7 @@
 
 ## [From Brief Analysis to Advantage: A Vision and Insights for H. Project](/pdf/From Brief Analysis to Advantage A Vision and Insights for H. Project.pdf)
 
-<img src="images/Screenshot 2025-04-23 041655.png?raw=true"/>
+<img src="images/Screenshot 2025-05-27 163620.png?raw=true"/>
 
 ---
 
