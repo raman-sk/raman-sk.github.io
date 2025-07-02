@@ -1,4 +1,4 @@
-# Data Analytics Portfolio
+# Analyst Portfolio
 
 ---
 
