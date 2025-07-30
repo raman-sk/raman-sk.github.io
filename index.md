@@ -20,6 +20,6 @@
 
 ---
 
-## [Marketing Campaign Performance Analytics](/pdf/Analysis of Products from Top eBay Sellers (June 2025).pdf)
+## [Marketing Campaign Performance Analytics](/pdf/Marketing Campaign Performance Analytics.pdf)
 
-<img src="images/Screenshot 2024-07-27 124324.png?raw=true"/>
+<img src="images/marketing_kpi_dashboard.jpg?raw=true"/>
