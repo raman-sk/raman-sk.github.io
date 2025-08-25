@@ -20,6 +20,6 @@
 
 ---
 
-## [Marketing Campaign Performance Analytics](/pdf/Marketing Campaign Performance Analytics1.pdf)
+## [Marketing Campaign Performance Analytics (Business Intelligence Project)](/pdf/Marketing Campaign Performance Analytics1.pdf)
 
 <img src="images/55b0505c-1609-43db-9eef-b66cea7b6199.jpg?raw=true"/>
